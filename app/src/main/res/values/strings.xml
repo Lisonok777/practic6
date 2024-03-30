@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practic6</string>
+    <string name="notification_title">Напоминалка</string>
+    <string name="notification_content">Через полчаса нужно отдать кота новому владельцу</string>
+    <string name="permission_notification">android.permission.POST_NOTIFICATIONS</string>
+    <string name="channel_id">Приют</string>
+</resources>
